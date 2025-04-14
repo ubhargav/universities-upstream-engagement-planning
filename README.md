@@ -21,6 +21,7 @@ Trainings Basics pre-requsities
 | Kubernetes commands | TBD |
 | CI/CD Basics | TBD |
 | MLOps Basics | TBD |
+| Security Basics | TBD |
 
 
 Are you interested? Please signup : https://docs.google.com/forms/d/1_3FDsRaGmZDaeqBAFzFHEx90BrBM4SjSG2RwHYbOoPU/edit
