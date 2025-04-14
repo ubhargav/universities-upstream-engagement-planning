@@ -12,6 +12,8 @@ Planning for FY25-26
 |Project handoff to next cohort, demo, wrapup| May 2026 |
 
 
+Trainings Basics pre-requsities
+
 | Pre-requisite Topics | Recommended Links | 
 | --- | --- |
 | git commands | TBD |
@@ -21,3 +23,4 @@ Planning for FY25-26
 | MLOps Basics | TBD |
 
 
+Are you interested? Please signup : https://docs.google.com/forms/d/1_3FDsRaGmZDaeqBAFzFHEx90BrBM4SjSG2RwHYbOoPU/edit
