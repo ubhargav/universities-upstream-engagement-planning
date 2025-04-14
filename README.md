@@ -10,3 +10,14 @@ Planning for FY25-26
 |Cohort formation and Kickoff | Aug 4th week 2025|
 |Project rampup, implementation, meetings| Sept 2025 - April 2026 |
 |Project handoff to next cohort, demo, wrapup| May 2026 |
+
+
+| Pre-requisite Topics | Recommended Links | 
+| --- | --- |
+| git commands | TBD |
+| Linux commands | TBD |
+| Kubernetes commands | TBD |
+| CI/CD Basics | TBD |
+| MLOps Basics | TBD |
+
+
