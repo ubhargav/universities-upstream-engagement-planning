@@ -16,7 +16,7 @@ Trainings Basics pre-requsities
 
 | Pre-requisite Topics | Recommended Links | 
 | --- | --- |
-| git commands | TBD |
+| git commands | https://www.youtube.com/watch?v=rE2zRhZdjFU |
 | Linux commands | TBD |
 | Kubernetes commands | TBD |
 | CI/CD Basics | TBD |
