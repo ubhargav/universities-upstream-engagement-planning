@@ -2,9 +2,9 @@
 This repository details out the planning process to engage university students from India to upstream and enable them for professional skills.
 
 Planning for FY25-26
-| Phase | Duration | 
+| Phase | Duration | **Status**
 | --- | --- |
-| Students Signup |May - Aug 2025 |
+| Students Signup |May - Aug 2025 | on-going
 | Mentors Identification | Sept 2025 |
 |Project proposals by Mentors | Oct 2025 |
 |Cohort formation and Kickoff | Nov-Dec 2025|
