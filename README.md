@@ -4,12 +4,12 @@ This repository details out the planning process to engage university students f
 Planning for FY25-26
 | Phase | Duration | 
 | --- | --- |
-| Students Signup |May 2025 |
-| Mentors Identification | July 2025 |
-|Project proposals by Mentors | Aug 2025 |
-|Cohort formation and Kickoff | Aug 4th week 2025|
-|Project rampup, implementation, meetings| Sept 2025 - April 2026 |
-|Project handoff to next cohort, demo, wrapup| May 2026 |
+| Students Signup |May - Aug 2025 |
+| Mentors Identification | Sept 2025 |
+|Project proposals by Mentors | Oct 2025 |
+|Cohort formation and Kickoff | Nov-Dec 2025|
+|Project rampup, implementation, meetings| Jan 2026 - April 2026 |
+|Project handoff to next cohort, demo, wrapup| May 2026 | Cycle repeats
 
 
 Trainings Basics pre-requsities
